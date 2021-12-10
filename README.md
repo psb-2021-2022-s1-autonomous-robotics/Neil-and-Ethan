@@ -1,4 +1,4 @@
-# Neil-and-Ethan
+# Neil-and-Ethan are fat
 
 this is our code for the motor project,
 
